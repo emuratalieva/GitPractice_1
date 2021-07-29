@@ -5,6 +5,7 @@ public class setPractice {
 
         System.out.println("Set is collection type that stores unique item");
         // added more lines here
+        // collection typpe
 
     }
 }
