@@ -9,5 +9,7 @@ public class Movie {
         // after some friendly discussion
         // they have decided
         // to continue on this
+
+        //added some functionality into moive class
     }
 }
