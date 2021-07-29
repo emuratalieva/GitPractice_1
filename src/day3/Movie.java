@@ -10,6 +10,8 @@ public class Movie {
         // they have decided
         // to continue on this
 
-        // this line is from Master
+        //added some functionality into moive class
+
+        //done with tc100
     }
 }
